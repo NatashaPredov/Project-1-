@@ -2,7 +2,7 @@
 ## Scope and Purpose of Project
 For the purpose of this project, our group wanted to investigate and determine a predictive model for the long term behaviour of relatively stable ETFs or mutual funds. 
 For the purpose of this project, the timeframe of the model data that we will be analyzing covers 4 years: August 2016 through July 2020. 
-The validation data will cover: August 2019 through July 2020 - 6 months before and after the February 2020 crash. This crash was due to the COVID-19 pandemic 
+The validation data will cover: August 2019 through July 2020 - 6 months before and after the February 2020 crash. This crash was due to the COVID-19 pandemic. Due to this being unforseen and very out of the ordinary, we will be ignoring the data up until Feb 2020 then picking our analysis back up 6 months post crash. 
 The data that we are working with comes from 4 Canadian banks that are amung the most secure in the world. 
 The 4 Banks we used for our data are:
 1. Royal Bank (RY)
