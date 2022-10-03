@@ -6,8 +6,6 @@ the Canadian banks are amungs the most secure in the world
 2. TD Bank TD
 3. Scotiabank BNS
 4. Bank of Montreal BMO
-5. Bank of Commerce CM
-6. National Bank NB
 
 Benchmarks Compare the individual stocks to the 
 1.  ZEB https://www.bmogam.com/ca-en/advisors/zeb-bmo-equal-weight-banks-index-etf/ 
