@@ -31,7 +31,6 @@ John -  To provide SCV files from Tradestat for USD/CAD and Oil
 
 
 ## Major Findings
-[ ] Create a README.md in your repo with a write-up summarizing your major findings. This should include a heading for each question that was asked of your data, with a short description of what you found and any relevant plots under each heading.
 
 #Scope and Purpose of Project
 - comment on sources of data, what type of data being worked with 
@@ -39,10 +38,18 @@ John -  To provide SCV files from Tradestat for USD/CAD and Oil
 Timeframe 4 years of Data - August 2016 through July 2020
 Model Data will be August 2016 through July 2019
 Validation Data will be August 2019 through July 2020 - 6 months before and after the February 2020 crash
+- ETF made of 6 Canadian Banks
+- Other securties
+- decide if buy stocks ourselfs or mutual funds and looking to see if we can find leading indicator for those securties through offsetting the viarable that would be the leader
+- correlation between the 4 banks and the 6 securities 
+- 
 
-#Questions being asked of the data and findings to said questions (include relevant plots)
+#Question 1 & Findings:
 
-# Overall Summarization 
+#Question 2 & Findings: 
+
+#Question 3 & Findings: 
+
 
 #Overall learnings connected to the course 
 
