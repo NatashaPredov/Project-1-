@@ -1,69 +1,38 @@
-# Project-1-  
-# Canadian Bank Stocks 
-    
-## Heading 2 - Data Collection
-[ ] Optional: Use at least one API, if an API can be found with data pertinent to your primary research questions.
-Use API from https://marketstack.com/documentation for TSX
-Browse API integration guides and interactive code examples for marketstack, a real-time and intraday JSON REST API for gobal stock market data.
+# Project-1- Canadian Bank Stocks 
+## Scope and Purpose of Project
+For the purpose of this project, our group wanted to investigate and determine a predictive model for the long term behaviour of relatively stable ETFs or mutual funds. 
+For the purpose of this project, the timeframe of the model data that we will be analyzing covers 4 years: August 2016 through July 2020. 
+The validation data will cover: August 2019 through July 2020 - 6 months before and after the February 2020 crash. This crash was due to the COVID-19 pandemic 
+The data that we are working with comes from 4 Canadian banks that are amung the most secure in the world. 
+The 4 Banks we used for our data are:
+1. Royal Bank (RY)
+2. TD Bank (TD)
+3. Scotiabank (BNS)
+4. Bank of Montreal (BMO)
 
-John -  To provide SCV files from Tradestat for USD/CAD and Oil
+The 6 securities being used is as follows:
 
-## Heading 3 - Data Exploration
-[ ] Use Pandas to clean and format all dataset(s).
-[ ] Create a Jupyter Notebook describing the data exploration and cleanup process.
--  Basic stuff - Head() Tail() Describe()
-
-## Heading 4 - Data Analysis
-[ ] Create a Jupyter Notebook illustrating the final data analysis.
-[ ] Use one new Python library that hasn't been covered in class.
-- Correlation Matrix and Chart
-- Stabdard Dev - Risk analysis
-- Comapare small US ETF
-- Beta vs. ZEB and ZWB 
-- Risk Adjusted Return - Sharpe Ratio
-
-## Heading 5 - Data Visualizartion
-[ ] Use PyViz, GeoViews, and Hvplot to create six to eight data visualizations (ideally, at least two per question asked of the data).
-- Price Chart
-- Daily Returns
-- Box Plot
-[ ] Save PNG images of the visualizations to distribute to the class and instructional team, as well as for the presentation, and your repo's README.md file.
-
-
-## Major Findings
-
-#Scope and Purpose of Project
-- comment on sources of data, what type of data being worked with 
-
-Timeframe 4 years of Data - August 2016 through July 2020
-Model Data will be August 2016 through July 2019
-Validation Data will be August 2019 through July 2020 - 6 months before and after the February 2020 crash
-- ETF made of 6 Canadian Banks
-- Other securties
-- decide if buy stocks ourselfs or mutual funds and looking to see if we can find leading indicator for those securties through offsetting the viarable that would be the leader
-- correlation between the 4 banks and the 6 securities 
-- 
-
-#Question 1 & Findings:
-
-#Question 2 & Findings: 
-
-#Question 3 & Findings: 
-
-
-#Overall learnings connected to the course 
-
-Notes:
-the Canadian banks are amungs the most secure in the world
-1. Royal Bank RY --> 
-2. TD Bank TD --> Natasha 
-3. Scotiabank BNS --> 
-4. Bank of Montreal BMO --> 
-
-Benchmarks Compare the individual stocks to the 
 1.  ZEB https://www.bmogam.com/ca-en/advisors/zeb-bmo-equal-weight-banks-index-etf/ 
 2.  ZWB https://www.bmo.com/gam/ca/advisor/products/etfs?fundUrl=/fundProfile/ZWB!hash!holdings#fundUrl=%2FfundProfile%2FZWB%23holdings
 3.  ZGB https://www.bmo.com/gam/ca/advisor/products/etfs?fundUrl=/fundProfile/ZGB#fundUrl=%2FfundProfile%2FZGB
 4.  USD/CAD 
 5.  OIL prices
 6.  DXY
+
+Benchmarks Compare the individual stocks to the 
+
+## Questions Findings
+
+Question 1: Should the stocks or mutual stocks be boughts? 
+
+Question 2: What is the leading indicator through the use of offsetting?
+
+Question 3: What is the correlation between the 4 banks and the 6 securities? 
+
+Question 4: How would or does COVID impact this decision? 
+
+## Connection to Course Content
+
+## Areas of challenge
+
+
