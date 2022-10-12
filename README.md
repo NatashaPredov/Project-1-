@@ -82,37 +82,62 @@ Figure 5, Line plot, represent the mean, two standard deviations and the 95% con
 
 Figure 6, the Histogram, shows the distributions of the data after three years.
 
-By comparing these charts it is possible to get a better understanding of the future returns of a given stock or ETF. 
+By comparing these charts, a clearer understanding of the future returns of a given stock or EFT can be summarized to follow the same or similar pattern as exhibited in Figure 5 and 6.  
 
-Clearly, additional data exploration and analyzation had to be conducted to product a suitable answer to this question as risk of each option must be taken into consideration. Aside from standard deviation, which was summarized above for the data sets, sharpe ratios and Beta calculations are useful tools to determining risk. 
-
-Beta calculated as the movement relative to a stable index, in this case government bonds
-Betas are highly correlated, not particularly useful for distinguishing stocks
-Sharpe ratios favour BNS, ZWB and CM
-NA, TD and RY have highest returns both in historical data and Monte Carlo simulations, but lowest Sharpe due to high volatility
-Monte Carlo predict smallest standard deviation for ZEB and ZWB with average predicted returns making them good choices
-BNS and CM show comparatively poor returns and are more risky than the ETFs, unlikely to be good picks
+Clearly, additional data exploration and analyzation had to be conducted to product a suitable answer to this question as risk of each option must be taken into consideration. Aside from standard deviation, summarized in Figure 5, sharpe ratios and Beta calculations are useful tools to determining risk as beta calculated as the movement relative to a stable index, in this case government bonds while sharpe ratios can tell us if a portfolio or stock is acceptable to hold. 
 
 Figure 7: 
-<img width="188" alt="Screen Shot 2022-10-11 at 9 10 17 PM" src="https://user-images.githubusercontent.com/110856988/195226113-fcb39d7b-2c3f-4eb6-9971-02a913252e1b.png">
+<img width="500" alt="Screen Shot 2022-10-11 at 9 10 17 PM" src="https://user-images.githubusercontent.com/110856988/195226113-fcb39d7b-2c3f-4eb6-9971-02a913252e1b.png">
 
 Figure 8:
-<img width="237" alt="Screen Shot 2022-10-11 at 9 10 24 PM" src="https://user-images.githubusercontent.com/110856988/195226116-00fb5fa2-7ef4-4fe4-acb6-ddf187bf2a27.png">
+<img width="500" alt="Screen Shot 2022-10-11 at 9 10 24 PM" src="https://user-images.githubusercontent.com/110856988/195226116-00fb5fa2-7ef4-4fe4-acb6-ddf187bf2a27.png">
 
 Figure 9:
-<img width="239" alt="Screen Shot 2022-10-11 at 9 10 31 PM" src="https://user-images.githubusercontent.com/110856988/195226137-6fa70879-4c49-45b6-b500-3826407033c6.png">
+<img width="500" alt="Screen Shot 2022-10-11 at 9 10 31 PM" src="https://user-images.githubusercontent.com/110856988/195226137-6fa70879-4c49-45b6-b500-3826407033c6.png">
 
-Question 3: What is the leading indicator through the use of offsetting?
+From Figure 7 to 9 the team can conclude that:  
+- Betas are highly correlated, not particularly useful for distinguishing stocks
+- Sharpe ratios favour BNS, ZWB and CM
+- NA, TD and RY have highest returns both in historical data and Monte Carlo simulations, but lowest Sharpe due to high volatility
+- Monte Carlo predict smallest standard deviation for ZEB and ZWB with average predicted returns making them good choices
+- BNS and CM show comparatively poor returns and are more risky than the ETFs, unlikely to be good picks
 
-Question 4: What is the correlation between the data?
+*Question 3: What is the leading indicator through the use of offsetting?*
 
-Question 5: Would or does COVID impact your decision?
+Leading Indicators:
+Leader is the security that predicts
+Target is the security being predicted
+p is the number days the Leader precedes the Target
+
+Process:
+Calculate the trailing 5 day average return of the Leader
+Cycle backwards in time weekly for 6 weeks (30 Days)
+Look for correlation to the Target’s 5 day average return 
+             
+Figure 10:
+<img width="500" alt="Screen Shot 2022-10-11 at 9 35 18 PM" src="https://user-images.githubusercontent.com/110856988/195228726-c7a48619-b603-40ad-880d-1b4d4fdd2df2.png">
+
+Figure 11:
+<img width="500" alt="Screen Shot 2022-10-11 at 9 35 24 PM" src="https://user-images.githubusercontent.com/110856988/195228731-e513953e-56ac-492d-9e25-f48feb54e0ab.png">
+
+Figure 12:
+<img width="500" alt="Screen Shot 2022-10-11 at 9 36 13 PM" src="https://user-images.githubusercontent.com/110856988/195228822-d2af0229-c9f3-49db-9c5b-2eab4e945507.png">
+
+Figure 13:
+<img width="500" alt="Screen Shot 2022-10-11 at 9 36 21 PM" src="https://user-images.githubusercontent.com/110856988/195228825-93cf7950-27ca-4b2d-a5f1-ce6ab98fee04.png">
+
+*Question 4: What is the correlation between the data?*
+<img width="500" alt="Screen Shot 2022-10-11 at 9 41 51 PM" src="https://user-images.githubusercontent.com/110856988/195229398-30d89a71-5dbe-471c-9412-f99665b537b8.png">
+
+<img width="500" alt="Screen Shot 2022-10-11 at 9 42 00 PM" src="https://user-images.githubusercontent.com/110856988/195229401-ade41a88-cd2f-4cd1-b8ef-fc85233d8170.png">
+
+*Question 5: Would or does COVID impact your decision?*
 
 ## Connection to Course Content
 
 ## Areas of challenge
 
-## Usage and installation instructions
+## Usage and Installation instructions
 
-## 
+
 
