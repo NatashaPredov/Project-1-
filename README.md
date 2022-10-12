@@ -153,9 +153,9 @@ The connection to the course content is found throughout this project. From part
 ## Areas of challenge
 
 Overall there were three main areas of challenge:
-1. Ensuring the data required to fufill the scope of the project was avalible for useage.
-2. Monte Carlo?
-3.  
+1. Ensuring the data required to fufill the scope of the project was avalible for useage. We were warned prior to starting this project that ensuring that we had all data required to fulfill our hypothesis was key to be successful in this project and that this must be done early in the project. So as a team we brainstormed on what data we required and reached out for assistance in obtaning data that we did not have access to. 
+2. Our team decided that we wanted to perform a Monte Carlo simulation to complete an analysis of which securities to purchase relies on risk and expected return. However we ran into some issues regarding iterating through the simulation. We found that the function returned the last ticker rather than the list of all of the tickers. To solve this we worked as a team and with the TA's and instructor for this course to determine where our error was. 
+3. Determining which visulizations best answered the questions that we proposed. During the last two months in class we have been introduced to many concepts and ways to present data in a way that can be easily read by anyone. To this then, our team had to review the methods that we were taught with some trial and error to determine which of what we learned best presented the data we collected and cleaned. 
 
 ## Usage and Installation instructions
 
