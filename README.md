@@ -88,13 +88,13 @@ By comparing these charts, a clearer understanding of the future returns of a gi
 
 Clearly, additional data exploration and analyzation had to be conducted to product a suitable answer to this question as risk of each option must be taken into consideration. Aside from standard deviation, summarized in Figure 5, sharpe ratios and Beta calculations are useful tools to determining risk as beta calculated as the movement relative to a stable index, in this case government bonds while sharpe ratios can tell us if a portfolio or stock is acceptable to hold. 
 
-Figure 9:
+Figure 8:
 <img width="500" alt="Screen Shot 2022-10-11 at 9 10 24 PM" src="https://user-images.githubusercontent.com/110856988/195226116-00fb5fa2-7ef4-4fe4-acb6-ddf187bf2a27.png">
 
-Figure 10:
+Figure 9:
 <img width="500" alt="Screen Shot 2022-10-11 at 9 10 31 PM" src="https://user-images.githubusercontent.com/110856988/195226137-6fa70879-4c49-45b6-b500-3826407033c6.png">
 
-From Figure 8 to 10 the team can conclude that:  
+From Figure 8 to 9 the team can conclude that:  
 - Betas are highly correlated, not particularly useful for distinguishing stocks
 - Sharpe ratios favour BNS, ZWB and CM
 - NA, TD and RY have highest returns both in historical data and Monte Carlo simulations, but lowest Sharpe due to high volatility
@@ -113,16 +113,16 @@ Calculate the trailing 5 day average return of the Leader
 Cycle backwards in time weekly for 6 weeks (30 Days)
 Look for correlation to the Target’s 5 day average return 
              
-Figure 11:
+Figure 10:
 <img width="500" alt="Screen Shot 2022-10-11 at 9 35 18 PM" src="https://user-images.githubusercontent.com/110856988/195228726-c7a48619-b603-40ad-880d-1b4d4fdd2df2.png">
 
-Figure 12:
+Figure 11:
 <img width="500" alt="Screen Shot 2022-10-11 at 9 35 24 PM" src="https://user-images.githubusercontent.com/110856988/195228731-e513953e-56ac-492d-9e25-f48feb54e0ab.png">
 
-Figure 13:
+Figure 12:
 <img width="500" alt="Screen Shot 2022-10-11 at 9 36 13 PM" src="https://user-images.githubusercontent.com/110856988/195228822-d2af0229-c9f3-49db-9c5b-2eab4e945507.png">
 
-Figure 14:
+Figure 13:
 <img width="500" alt="Screen Shot 2022-10-11 at 9 36 21 PM" src="https://user-images.githubusercontent.com/110856988/195228825-93cf7950-27ca-4b2d-a5f1-ce6ab98fee04.png">
 
 *Question 4: What is the correlation between the data?*
@@ -131,10 +131,10 @@ To ensure the team covered the scope of the project at hand, the team had to det
 
 To do this however the team utilized a heat mat, presented below both visually and within a table format in Figure 15 and 16. 
 
-Figure 15:
+Figure 14:
 <img width="500" alt="Screen Shot 2022-10-11 at 9 41 51 PM" src="https://user-images.githubusercontent.com/110856988/195229398-30d89a71-5dbe-471c-9412-f99665b537b8.png">
 
-Figure 16:
+Figure 15:
 <img width="500" alt="Screen Shot 2022-10-11 at 9 42 00 PM" src="https://user-images.githubusercontent.com/110856988/195229401-ade41a88-cd2f-4cd1-b8ef-fc85233d8170.png">
 
 *Question 5: Would or does COVID impact your decision?*
