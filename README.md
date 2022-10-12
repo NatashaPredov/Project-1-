@@ -88,9 +88,6 @@ By comparing these charts, a clearer understanding of the future returns of a gi
 
 Clearly, additional data exploration and analyzation had to be conducted to product a suitable answer to this question as risk of each option must be taken into consideration. Aside from standard deviation, summarized in Figure 5, sharpe ratios and Beta calculations are useful tools to determining risk as beta calculated as the movement relative to a stable index, in this case government bonds while sharpe ratios can tell us if a portfolio or stock is acceptable to hold. 
 
-Figure 8: 
-<img width="500" alt="Screen Shot 2022-10-11 at 9 10 17 PM" src="https://user-images.githubusercontent.com/110856988/195226113-fcb39d7b-2c3f-4eb6-9971-02a913252e1b.png">
-
 Figure 9:
 <img width="500" alt="Screen Shot 2022-10-11 at 9 10 24 PM" src="https://user-images.githubusercontent.com/110856988/195226116-00fb5fa2-7ef4-4fe4-acb6-ddf187bf2a27.png">
 
