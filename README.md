@@ -1,27 +1,51 @@
 # Project-1- Canadian Bank Stocks 
 ## Scope and Purpose of Project
-For the purpose of this project, our group wanted to investigate and determine a predictive model for the long term behaviour of relatively stable ETFs or mutual funds. 
-For the purpose of this project, the timeframe of the model data that we will be analyzing covers 4 years: August 2016 through July 2020. 
-The validation data will cover: August 2019 through July 2020 - 6 months before and after the February 2020 crash. This crash was due to the COVID-19 pandemic. Due to this being unforseen and very out of the ordinary, we will be ignoring the data up until Feb 2020 then picking our analysis back up 6 months post crash. 
-The data that we are working with comes from 4 Canadian banks that are amung the most secure in the world. 
-The 4 Banks we used for our data are:
-1. Royal Bank (RY)
-2. TD Bank (TD)
-3. Scotiabank (BNS)
-4. Bank of Montreal (BMO)
+For the purpose of this project, our group wanted to investigate and determine a predictive model for the long term behaviour of relatively stable ETFs. 
 
-The 6 securities being used is as follows:
+We wanted to understand how this model would react and change due to the unforseen impacts the COVID-19 pandemic had on the Canadian Banks. For this purpose, the timeframe of the model data that we will be analyzing covers 4 years: August 2016 through July 2020. While the validation data will cover: August 2019 through July 2020 - 6 months before and after the February 2020 COVID-19 crash. Due to this being unforseen and very out of the ordinary, we will be ignoring the data up until Feb 2020 then picking our analysis back up 6 months post crash. 
 
-1.  ZEB https://www.bmogam.com/ca-en/advisors/zeb-bmo-equal-weight-banks-index-etf/ 
-2.  ZWB https://www.bmo.com/gam/ca/advisor/products/etfs?fundUrl=/fundProfile/ZWB!hash!holdings#fundUrl=%2FfundProfile%2FZWB%23holdings
-3.  ZGB https://www.bmo.com/gam/ca/advisor/products/etfs?fundUrl=/fundProfile/ZGB#fundUrl=%2FfundProfile%2FZGB
-4.  USD/CAD 
-5.  OIL prices
-6.  DXY
+Once the group determine the project scope and timeframe of which the data would be derived from, we then went to work into fidning, cleaning and summarizing the data to then be analyzed to answer our hypothsised questions. 
 
-Benchmarks Compare the individual stocks to the 
+For the purpose of simplicity during the data analysis, we created acronyms for each of the areas of which data was pulled from. 
 
-## Questions Findings
+| Data Provider  | Acronym |
+| ------------- | ------------- |
+| Bank of Montreal  | BMO  |
+|  Canadian Imperial Bank of Commerce |   |
+|  Scotiabank | BNS  |
+|  National Bank  | NA  |
+|  Royal Bank of Canada | RY  |
+|  TD | TD Bank  |
+|  BMO Canadian Banks Equal Weight  | [ZEB](https://www.bmogam.com/ca-en/advisors/zeb-bmo-equal-weight-banks-index-etf/)  |
+|  BMO Canadian Banks Covered Call |  [ZWB](https://www.bmo.com/gam/ca/advisor/products/etfsfundUrl=/fundProfile/ZWB!hash!holdings#fundUrl=%2FfundProfile%2FZWB%23holdings)  |
+|  iShares Government Bonds | IGB  |
+|  CAD futures vs USD | CD  |
+|  US Dollar Index  | DX  |
+|  Crude Oil Futures | CL  |
+
+ The Canadian Bank Stocks consisted of: 
+1.  Bank of Montreal
+2. Scotiabank 
+3. Canadian Imperial Bank of Commerce
+4.  National Bank 
+5. Royal Bank of Canada
+6.  TD Bank
+
+The Canadian Banks ETFs consisted of: 
+ 1. BMO Canadian Banks Equal Weight
+ 2. BMO Canadian Banks Covered Call
+
+The Commodities (Future contracts) consisted of: 
+1. iShares Government Bonds
+2. CAD futures vs USD
+3. US Dollar Index  
+4. Crude Oil Futures
+
+From the collection of data, the group then cleaned and formatted the data, using Panadas,  to ensure all values utilized in future analyzation was consistent across the board. Pandas was used to clean and format all datasets. Next, the data sets were summarized and generic data statistics were determined. 
+
+ 
+
+## Questions Findings, Analysis, Conclusions and Implications
 
 Question 1: Should the stocks or mutual stocks be boughts? 
 
@@ -35,4 +59,7 @@ Question 4: How would or does COVID impact this decision?
 
 ## Areas of challenge
 
+## Usage and installation instructions
+
+## 
 
