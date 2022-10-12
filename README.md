@@ -41,9 +41,9 @@ The Commodities (Future contracts) consisted of:
 3. US Dollar Index  
 4. Crude Oil Futures
 
-From the collection of data, the group then cleaned and formatted the data, using Panadas,  to ensure all values utilized in future analyzation was consistent across the board. Pandas was used to clean and format all datasets. Next, the data sets were summarized and generic data statistics were determined. 
+From the collection of data, the group then cleaned,  formatted the data, using Panadas,  to ensure all values utilized in future analyzation was consistent across the board. Pandas was used to clean and format all datasets. Nulls, incomplete values, unknown charecters ect were removed from the data sets and all entries were formatted identically to ensure future visulizations would produce a picture that was accurate to the data pulled. The data sets were summarized and generic data statistics were determined. The summarization can be found [here](https://github.com/NatashaPredov/Project-1-.wiki.git).
 
- 
+From here, the team set off to analyzing the data using the data visualization methods taught in class to answer the groups set of main questions. 
 
 ## Questions Findings, Analysis, Conclusions and Implications
 
