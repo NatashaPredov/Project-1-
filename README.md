@@ -24,16 +24,16 @@ For the purpose of simplicity during the data analysis, we created acronyms for 
 |  Crude Oil Futures | CL  |
 
  The Canadian Bank Stocks consisted of: 
-1.  Bank of Montreal
+1. Bank of Montreal
 2. Scotiabank 
 3. Canadian Imperial Bank of Commerce
-4.  National Bank 
+4. National Bank 
 5. Royal Bank of Canada
-6.  TD Bank
+6. TD Bank
 
 The Canadian Banks ETFs consisted of: 
- 1. BMO Canadian Banks Equal Weight
- 2. BMO Canadian Banks Covered Call
+ 1. BMO Canadian Banks Equal Weight: this is an EFT that contains 6 Canadian bank stocks weighted equally based on value. Meaning that an individual could buy $1000 of each of the 6 stocks or $6000 of ZEB and the performance should be about the same.
+ 3. BMO Canadian Banks Covered Call
 
 The Commodities (Future contracts) consisted of: 
 1. iShares Government Bonds
@@ -49,7 +49,6 @@ Figure 1:
 Figure 2:
 <img width="500" alt="Screen Shot 2022-10-11 at 9 01 34 PM" src="https://user-images.githubusercontent.com/110856988/195225249-6f76e77a-5245-40ed-86de-6d0c59155ad3.png">
 
-
 From here, the team set off to analyzing the data using the data visualization methods taught in class to answer the groups set of main questions. 
 
 ## Questions Findings, Analysis, Conclusions and Implications
@@ -58,9 +57,11 @@ From here, the team set off to analyzing the data using the data visualization m
 
 <img width="500" alt="Screen Shot 2022-10-11 at 9 00 09 PM" src="https://user-images.githubusercontent.com/110856988/195225305-07d14d4a-9081-46e0-a61c-38fd44ed34ae.png">
 
+
+
 *Question 2: Which securities should be bought?*
 
-To determine this question, the team had to conduct an Monte Carlo simulations produce daily simulated returns for August 2016 - August 2019 as the purchase relies on risk and expected return. The rational into why a Monte Carlo simulation was performed is that determining the statistical properties of these simulation help to inform which stocks are the best purchases. However, the raw Monte Carlo simulations, as seen below, are messy and the data is somewhat hard to visualize. 
+To determine the answer to this question, the team had to conduct an Monte Carlo simulations produce daily simulated returns for August 2016 - August 2019 as the purchase relies on risk and expected return. The rational into why a Monte Carlo simulation was performed is that determining the statistical properties of these simulation help to inform which stocks are the best purchases. However, the raw Monte Carlo simulations, as seen below, are messy and the data is somewhat hard to visualize. 
 
 Figure 3: 
 <img width="500" alt="Screen Shot 2022-10-11 at 9 03 08 PM" src="https://user-images.githubusercontent.com/110856988/195225395-002bf794-f8e8-4f03-bf4b-7a0b78ea1e6b.png">
@@ -150,6 +151,10 @@ The connection to the course content is found throughout this project. From part
 
 ## Areas of challenge
 
+Overall there were three main areas of challenge:
+1. Ensuring the data required to fufill the scope of the project was avalible for useage.
+2. Monte Carlo?
+3.  
 
 ## Usage and Installation instructions
 
