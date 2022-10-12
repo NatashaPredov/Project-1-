@@ -11,7 +11,7 @@ For the purpose of simplicity during the data analysis, we created acronyms for 
 | Data Provider  | Acronym |
 | ------------- | ------------- |
 | Bank of Montreal  | BMO  |
-|  Canadian Imperial Bank of Commerce |   |
+|  Canadian Imperial Bank of Commerce | CM  |
 |  Scotiabank | BNS  |
 |  National Bank  | NA  |
 |  Royal Bank of Canada | RY  |
@@ -127,17 +127,35 @@ Figure 13:
 <img width="500" alt="Screen Shot 2022-10-11 at 9 36 21 PM" src="https://user-images.githubusercontent.com/110856988/195228825-93cf7950-27ca-4b2d-a5f1-ce6ab98fee04.png">
 
 *Question 4: What is the correlation between the data?*
+
+To ensure we covered the scope of the project at hand, we had to determine the correlation between the data scrubbed as understanding the correlation between the data would give us a better understanding of the rate at which what data sets change at the same rate (positively or negatively), meaning that they are linerally related. Understanding this will help us to better understand the long term behaviour and thus which securities should be bought. 
+
+To do this however we utilized a heat mat, presented below both visually and within a table format in Figure 14 and 15. 
+
+Figure 14:
 <img width="500" alt="Screen Shot 2022-10-11 at 9 41 51 PM" src="https://user-images.githubusercontent.com/110856988/195229398-30d89a71-5dbe-471c-9412-f99665b537b8.png">
 
+Figure 15:
 <img width="500" alt="Screen Shot 2022-10-11 at 9 42 00 PM" src="https://user-images.githubusercontent.com/110856988/195229401-ade41a88-cd2f-4cd1-b8ef-fc85233d8170.png">
 
 *Question 5: Would or does COVID impact your decision?*
 
+!! require visualizations!!
+
+What can additionally be commented on is the psychological nature of a market crash which was caused by the COVID-19 pandemic. The crash was unforseen by many therefor the prepardness of those individuals was not to par to ensure a positive outcome if a crash, as this one occured, did infact occur. Therefor it is clear the pandemic has left many shell shocked into the purchase of stocks, Canadian or not, as many are unsure if or when another crash similar could happen in the future. 
+
 ## Connection to Course Content
+
+The connection to the course content is found throughout this project. From participating in class and the activities, the team was able to use our collective knowledge to determine which visualizations would best answers the questions we hypothesized at the start of this project. To ensure that we outputted these visualizations the understanding and utilization, taugh through this course, was key through the useage of Pandas. 
 
 ## Areas of challenge
 
+
 ## Usage and Installation instructions
+
+To view this project, follow the main branch found in this Github repo to the final code that encompasses all of the contributions made by the team members. 
+
+The code which is submitted is commented with concise, relevant notes that other developers can understand so future extensions on the work submitted can be explored if needed. 
 
 
 
