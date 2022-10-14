@@ -55,7 +55,8 @@ From here, the team set off to analyzing the data using the data visualization m
 
 *Question 1: What can insights from the first 3 years tell us about the next 3 years?*
 
-From Figure 3, a steady averaged incline in the daily adjusted close on a year over year basis can be found. The BMO Equal Weight Banks Index ETF has been designed to replicate, to the extent possible, the performance of the Solactive Equal Weight Canada Banks Index , net of expenses. The Fund invests in and holds the Constituent Securities of the Index in the same proportion as they are reflected in the Index.
+Figure 3 is of the BMO Equal Weight Banks Index ETF It shows a period of steady increase leading up to the "Covid Crash" followed by an agressive recovery. We are exploring how a model will cope with these agressive changes.   
+
 Figure 3: 
 <img width="500" alt="Screen Shot 2022-10-11 at 9 00 09 PM" src="https://user-images.githubusercontent.com/110856988/195225305-07d14d4a-9081-46e0-a61c-38fd44ed34ae.png">
 
@@ -67,12 +68,12 @@ To determine the answer to this question, the team had to conduct an Monte Carlo
 Figure 4: 
 <img width="500" alt="Screen Shot 2022-10-11 at 9 03 08 PM" src="https://user-images.githubusercontent.com/110856988/195225395-002bf794-f8e8-4f03-bf4b-7a0b78ea1e6b.png">
 
-Figure 5:
+Figure 5:  
 <img width="500" alt="Screen Shot 2022-10-11 at 9 03 22 PM" src="https://user-images.githubusercontent.com/110856988/195225403-72bfec10-4bdb-4bd4-adbd-3a73251e50c5.png">
 
 It was clear that cleaning the data from the simulation would help to get a better understanding of the nature of the Monte Carlo. The following two graphs, line and histogram charts, were  created:
 
-Figure 6:
+Figure 6:  
 <img width="500" alt="Screen Shot 2022-10-11 at 9 07 31 PM" src="https://user-images.githubusercontent.com/110856988/195226720-8f85fa3d-5254-449f-9519-054dc8c334dd.png">
 
 Figure 7: 
@@ -88,10 +89,10 @@ By comparing these charts, a clearer understanding of the future returns of a gi
 
 Clearly, additional data exploration and analyzation had to be conducted to product a suitable answer to this question as risk of each option must be taken into consideration. Aside from standard deviation, summarized in Figure 5, sharpe ratios and Beta calculations are useful tools to determining risk as beta calculated as the movement relative to a stable index, in this case government bonds while sharpe ratios can tell us if a portfolio or stock is acceptable to hold. 
 
-Figure 8:
+Figure 8:  
 <img width="500" alt="Screen Shot 2022-10-11 at 9 10 24 PM" src="https://user-images.githubusercontent.com/110856988/195226116-00fb5fa2-7ef4-4fe4-acb6-ddf187bf2a27.png">
 
-Figure 9:
+Figure 9:  
 <img width="500" alt="Screen Shot 2022-10-11 at 9 10 31 PM" src="https://user-images.githubusercontent.com/110856988/195226137-6fa70879-4c49-45b6-b500-3826407033c6.png">
 
 From Figure 8 to 9 the team can conclude that:  
