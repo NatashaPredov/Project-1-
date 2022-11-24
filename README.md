@@ -1,4 +1,7 @@
 # Project-1- Canadian Bank Stocks 
+## Presentation Link: 
+https://docs.google.com/presentation/d/1LrH4eOdyGunVuXM-jfUtvG2oKiqWQqUo6wYJ9S2c36M/edit?fbclid=IwAR1Yu9rjAiDEaidElt861NTS-hIfECtDaGfRHIyKN0kxBBBhp2lo0WUHnjo#slide=id.g1f87997393_0_782
+
 ## Scope and Purpose of Project
 For the purpose of this project, our group wanted to investigate and determine a predictive model for the long term behaviour of relatively stable ETFs. 
 
